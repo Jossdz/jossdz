@@ -1,4 +1,4 @@
-## Hi there 👋
+![jossdz](https://i.postimg.cc/Xvr5fV2y/Jossdz.png)
 
 ### Actualmente trabajo como Lead Teacher en Ironhack Mexico
 
