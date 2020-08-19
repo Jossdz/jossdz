@@ -1,14 +1,5 @@
 ![jossdz](https://i.postimg.cc/Xvr5fV2y/Jossdz.png)
 
-### Actualmente trabajo como Lead Teacher en Ironhack Mexico
-
-### Estoy aprendiendo:
-
-- Typescript con React y Graphql
-- Masterizar Nextjs
-- Un poco de Elixir
-
-Puedes preguntarme sobre codigo [aca](jossdz.com/ama)
 
 <!--
 **Jossdz/jossdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
